@@ -1,0 +1,11 @@
+body
+{
+   background-image: url("../img/as.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+footer
+{
+padding-left: 1050px;
+padding-top: 290px;
+}

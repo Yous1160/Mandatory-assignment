@@ -1,0 +1,26 @@
+body{
+    background-color: #E6CC73;
+    grid-auto-columns: repeat(12, 1fr);
+    grid-auto-rows: 100px 500px 100px;
+    display: grid;
+}
+
+main{
+    color: white;
+    font-size: 150px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: initial;
+    padding-top: 100px;
+
+}
+
+footer{
+    padding-left: 100px;
+}
+
+header
+{
+padding-left: 1100px;
+padding-top: 260px;
+}
